@@ -1,1 +1,0 @@
-alert(prompt("Alert Prompts!"));
